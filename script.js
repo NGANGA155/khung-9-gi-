@@ -1,11 +1,11 @@
 const products = [
   {
-    name: "Tất lót lông cổ cao ấm áp giữ nhiệt",
+    name: "Free Ship - 1 Gói 80 Khăn Ướt Lau Ban Thờ Phúc An",
     price: "1.000 ₫",
-    oldPrice: "30.000 ₫",
+    oldPrice: "18.000 ₫",
     sale: "98%",
-    image: "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lp0dnq8hcdi394.webp", // Thay ảnh thật ở đây
-    link: "https://s.shopee.vn/8V0XpdoU7R" // Thay link Shopee thật
+    image: "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m535jiv8efugf5.webp", // Thay ảnh thật ở đây
+    link: "https://s.shopee.vn/11zkWkZOR" // Thay link Shopee thật
   },
   {
     name: "Lọ Đựng Gia Vị Thủy Tinh",
@@ -16,20 +16,71 @@ const products = [
     link: "https://s.shopee.vn/1LXMwwNDow" // Thay link Shopee thật
   },
  {
-    name: "Thanh Chặn Khe Cửa",
+    name: "KẸP càng cua 12cm MÈO Hello Kitty BÔNG",
+    price: "1.000 ₫",
+    oldPrice: "19.542 ₫",
+    sale: "98%",
+    image: "https://down-vn.img.susercontent.com/file/vn-11134211-820l4-mfo687aqnlsc67.webp", // Thay ảnh thật ở đây
+    link: "https://s.shopee.vn/9AGEfRN3Ay" // Thay link Shopee thật
+  },
+{    name: "Sáp thơm phòng khử mùi phòng",
+    price: "1.000 ₫",
+    oldPrice: "16.000 ₫",
+    sale: "98%",
+    image: "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m45gexewekrk31_tn", // Thay ảnh thật ở đây
+    link: "https://s.shopee.vn/4ArYiMdjqD" // Thay link Shopee thật
+  },
+{    name: "Ốp lưng iphone trong suốt chống sốc",
+    price: "1.000 ₫",
+    oldPrice: "20.000 ₫",
+    sale: "98%",
+    image: "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzgiwjex75n1b1.webp", // Thay ảnh thật ở đây
+    link: "https://s.shopee.vn/5L3W6i7uSI" // Thay link Shopee thật
+  },
+{    name: "Bánh quẩy ăn vặt Cá Lắc ZOO",
+    price: "1.000 ₫",
+    oldPrice: "15.000 ₫",
+    sale: "98%",
+    image: "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lxckestdi9jv85.webp", // Thay ảnh thật ở đây
+    link: "https://s.shopee.vn/7AVAIDwsl7" // Thay link Shopee thật
+  },
+{    name: "Tranh Tô Màu Nước MaGIC Cho Bé Đa Chủ Đề",
     price: "1.000 ₫",
     oldPrice: "29.000 ₫",
     sale: "98%",
-    image: "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lhkdvihjmvup0a@resize_w450_nl.webp", // Thay ảnh thật ở đây
-    link: "https://s.shopee.vn/11zMpAbR3" // Thay link Shopee thật
+    image: "https://down-vn.img.susercontent.com/file/sg-11134201-7rdwo-md9uy2ll3tq832.webp", // Thay ảnh thật ở đây
+    link: "https://s.shopee.vn/5VMwJEWCel" // Thay link Shopee thật
   },
-{    name: "Tranh Tô Màu Nước MaGIC",
+{    name: "Quà đơn từ 80k Combo 2 gói băng vệ sinh cao cấp MOHA",
     price: "1.000 ₫",
-    oldPrice: "29.000 ₫",
+    oldPrice: "15.000 ₫",
     sale: "98%",
-    image: "https://down-vn.img.susercontent.com/file/vn-11134258-820l4-mfxq62t9foqw33", // Thay ảnh thật ở đây
-    link: "https://s.shopee.vn/9zpLcT39oA" // Thay link Shopee thật
+    image: "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m0x9l378qrlba8.webp", // Thay ảnh thật ở đây
+    link: "https://s.shopee.vn/30fbKpb9F3" // Thay link Shopee thật
   },
+
+{    name: "Chổi Vệ Sinh Quạt, Cọ Rửa Xe Máy Xe Đạp Đa Năng",
+    price: "1.125 ₫",
+    oldPrice: "10.000 ₫",
+    sale: "98%",
+    image: "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lw32zze8mkt5b1@resize_w900_nl.webp", // Thay ảnh thật ở đây
+    link: "https://s.shopee.vn/8zwoU068M5" // Thay link Shopee thật
+  },
+{    name: "Khăn lau đa năng Vải Microfiber",
+    price: "1.000 ₫",
+    oldPrice: "20.000 ₫",
+    sale: "98%",
+    image: "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lzvmag0jx3flb2.webp", // Thay ảnh thật ở đây
+    link: "https://s.shopee.vn/AA8lsJbngG" // Thay link Shopee thật
+  },
+{    name: "Combo 3 cuộn túi rác tự phân hủy",
+    price: "1.000 ₫",
+    oldPrice: "20.000 ₫",
+    sale: "98%",
+    image: "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lud97esn6zmsc9@resize_w900_nl.webp", // Thay ảnh thật ở đây
+    link: "https://s.shopee.vn/30fbLBt0G9" // Thay link Shopee thật
+  },
+
 ];
 
 const container = document.getElementById("product-list");
